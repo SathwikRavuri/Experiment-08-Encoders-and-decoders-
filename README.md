@@ -65,6 +65,26 @@ Program for Endocers and Decoders  and verify its truth table in quartus using V
 Developed by: 
 RegisterNumber:  
 */
+## encoder
+
+module encode(a,b,c,d0,d1,d2,d3,d4,d5,d6,d7);
+output a,b,c;
+input d0,d1,d2,d3,d4,d5,d6,d7;
+or(a,d4,d5,d6,d7);
+or(b,d2,d3,d6,d7);
+or(c,d1,d3,d5,d7);
+endmodule
+
+
+## decoder
+
+module encode(a,b,c,d0,d1,d2,d3,d4,d5,d6,d7);
+output a,b,c;
+input d0,d1,d2,d3,d4,d5,d6,d7;
+or(a,d4,d5,d6,d7);
+or(b,d2,d3,d6,d7);
+or(c,d1,d3,d5,d7);
+endmodule
 
 
 
@@ -72,6 +92,8 @@ RegisterNumber:
 
 
 ### RTL LOGIC  
+## encoder
+![output](?raw=true)
 
 
 
@@ -81,12 +103,40 @@ RegisterNumber:
 
 
 ### TIMING DIGRAMS  
+## encoder
+![output](?raw=true)
 
 
 
 
 
 ### TRUTH TABLE 
+## encoder
+![output](?raw=true)
+
+
+### RTL LOGIC  
+## decoder
+![output](?raw=true)
+
+
+
+
+
+
+
+
+### TIMING DIGRAMS  
+## decoder
+![output](?raw=true)
+
+
+
+
+
+### TRUTH TABLE 
+## decoder
+![output](?raw=true)
 
 
 
