@@ -104,7 +104,7 @@ endmodule
 
 ### RTL LOGIC  
 ## encoder
-![output](?raw=true)
+![output](https://github.com/SathwikRavuri/Experiment-08-Encoders-and-decoders-/blob/main/a.png?raw=true)
 
 
 
@@ -115,7 +115,7 @@ endmodule
 
 ### TIMING DIGRAMS  
 ## encoder
-![output](?raw=true)
+![output](https://github.com/SathwikRavuri/Experiment-08-Encoders-and-decoders-/blob/main/t1.jpg?raw=true)
 
 
 
@@ -123,12 +123,12 @@ endmodule
 
 ### TRUTH TABLE 
 ## encoder
-![output](?raw=true)
+![output](https://github.com/SathwikRavuri/Experiment-08-Encoders-and-decoders-/blob/main/timing%20en.png?raw=true)
 
 
 ### RTL LOGIC  
 ## decoder
-![output](?raw=true)
+![output](https://github.com/SathwikRavuri/Experiment-08-Encoders-and-decoders-/blob/main/2.png?raw=true)
 
 
 
@@ -139,7 +139,7 @@ endmodule
 
 ### TIMING DIGRAMS  
 ## decoder
-![output](?raw=true)
+![output](https://github.com/SathwikRavuri/Experiment-08-Encoders-and-decoders-/blob/main/t2.png?raw=true)
 
 
 
@@ -147,7 +147,7 @@ endmodule
 
 ### TRUTH TABLE 
 ## decoder
-![output](?raw=true)
+![output](https://github.com/SathwikRavuri/Experiment-08-Encoders-and-decoders-/blob/main/truth%202.png?raw=true)
 
 
 
